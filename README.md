@@ -1,24 +1,31 @@
-HackMD Homepage Clone (HTML Only) Phase I
+AsyncNote Homepage Clone (HTML Only) – Phase I
+
 📌 Project Description
 
-This project is a simple clone of the HackMD.io homepage, built using only HTML.
-It is part of a group learning project to understand basic web page structure before adding CSS and JavaScript later.
+This project is a simple homepage clone for AsyncNote, built using only HTML.
+AsyncNote is an asynchronous collaborative documentation platform designed to help teams turn notes into structured, long-lasting knowledge.
 
-🎯 Project Goal
+This phase focuses strictly on understanding HTML structure and semantics before introducing styling or interactivity.
+
+🎯 Project Goals
 
 Practice writing semantic HTML
 
-Understand page structure and layout
+Understand modern web page structure
 
 Learn team collaboration using GitHub
 
-Prepare the project for future CSS and JavaScript integration
+Prepare the foundation for future CSS and JavaScript integration
+
+Translate a product idea (AsyncNote) into a real webpage structure
 
 🛠️ Technologies Used
 
 HTML5
 
-⚠️ Note: No CSS or JavaScript is used at this stage.
+⚠️ Note:
+No CSS or JavaScript is used in this phase.
+This is intentional to focus on structure, not styling.
 
 📂 Project Structure
 /
@@ -26,18 +33,27 @@ HTML5
 ├── README.md
 
 
-(More files will be added as the project grows.)
+More files and folders will be added as the project evolves.
 
-👥 Team Collaboration
+👥 Team Collaboration Guidelines
 
-This is a group project.
+This is a group learning project.
+
 Each collaborator is expected to:
 
-Work on assigned sections
+Work only on assigned sections
 
-Use GitHub properly (pull, commit, push)
+Use GitHub properly:
 
-Avoid editing files without pulling latest changes
+Pull before making changes
+
+Commit meaningful messages
+
+Push updates regularly
+
+Avoid editing files without pulling the latest changes
+
+Respect team workflow and code ownership
 
 🚀 How to Run the Project
 
@@ -50,15 +66,17 @@ Open the project folder
 
 Open index.html in any web browser
 
-🔄 Future Improvements
+🔄 Future Improvements (Next Phases)
 
-Add CSS for styling
+Add CSS for layout and styling
 
 Add JavaScript for interactivity
 
 Improve responsiveness
 
-Match HackMD layout more closely
+Enhance UI to reflect the AsyncNote product vision
+
+Introduce additional pages (Dashboard, Editor, etc.)
 
 📄 License
 
@@ -67,7 +85,5 @@ You are free to use, modify, and share it.
 
 ✨ Acknowledgement
 
-Inspired by HackMD.io
-Built for learning and educational purposes ONLY.
-
-GOOD LUCK
+Inspired by modern collaborative documentation tools.
+Built strictly for learning and educational purposes.
