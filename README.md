@@ -1,8 +1,8 @@
-AsyncNote Homepage Clone (HTML Only) – Phase I
+AsyncNote Homepage (HTML Only) – Phase I
 
 📌 Project Description
 
-This project is a simple homepage clone for AsyncNote, built using only HTML.
+This project is a simple homepage for AsyncNote, built using only HTML.
 AsyncNote is an asynchronous collaborative documentation platform designed to help teams turn notes into structured, long-lasting knowledge.
 
 This phase focuses strictly on understanding HTML structure and semantics before introducing styling or interactivity.
